@@ -9,8 +9,8 @@
     <RESISTANCE id="mtr_r">1.1f</RESISTANCE>
     <D_AXIS_INDUCTANCE id="mtr_ld">0.0011f</D_AXIS_INDUCTANCE>
     <Q_AXIS_INDUCTANCE id="mtr_lq">0.0011f</Q_AXIS_INDUCTANCE>
-    <MAGNETIC_FLUX id="mtr_m">0.01111f</MP_MAGNETIC_FLUX>
-    <ROTOR_INERTIA id="mtr_j">0.0000055555f</MP_ROTOR_INERTIA>
-    <NOMINAL_CURRENT id="mtr_nominal_current">1.11f</MP_NOMINAL_CURRENT>
+    <MAGNETIC_FLUX id="mtr_m">0.01111f</MAGNETIC_FLUX>
+    <ROTOR_INERTIA id="mtr_j">0.0000055555f</ROTOR_INERTIA>
+    <NOMINAL_CURRENT id="mtr_nominal_current">1.11f</NOMINAL_CURRENT>
   </motor_parameter>
 </configuration>
